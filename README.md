@@ -1,4 +1,4 @@
-# PhishingEmailDetector
+# PhishSniffer (PhishingEmailDetector)
 
 An advanced machine learning-based application for detecting and analyzing phishing emails with high accuracy.
 
